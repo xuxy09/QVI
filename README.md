@@ -2,6 +2,8 @@
 
 Implementation of "Quadratic video interpolation", NeurIPS 2019.
 
+[Paper](https://arxiv.org/abs/1911.00627), [Project](https://sites.google.com/view/xiangyuxu/qvi_nips19)
+
 ## Packages
 The following pakages are required to run the code:
 * python==3.8
