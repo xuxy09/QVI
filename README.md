@@ -18,6 +18,8 @@ The following pakages are required to run the code:
 
 
 ## Demo
+* Download [pretrained model](https://www.dropbox.com/s/5auirpk1tijxo1v/model.pt?dl=0) and put it in "./qvi_release"
+* Download [weights of PWC-Net](https://www.dropbox.com/s/afsqhlzu0rarpmf/pwc-checkpoint.pt?dl=0) and put it in "./utils"
 * Put your sequence in "datasets/example" with structure as 
 ```
 seq1
