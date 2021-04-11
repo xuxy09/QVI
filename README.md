@@ -1,3 +1,5 @@
+# Quadratic video interpolation
+
 Implementation of "Quadratic video interpolation", NeurIPS 2019.
 
 ## Packages
