@@ -43,7 +43,7 @@ The output will be in "outputs/example". Note that all settings are in config fi
 
 
 ## Train
-* Download the [QVI-960](https://www.dropbox.com/s/4i6ff6o62sp2f69/QVI-960.zip?dl=0) dataset for training and put it in the folder "datasets"
+* Download the [QVI-960](https://share.weiyun.com/QtXBhdW4) dataset for training and put it in the folder "datasets"
 * Download the [validation](https://www.dropbox.com/s/u50kpbj08cuucmu/Adobe240_validation.zip?dl=0) data which is a subset of the Adobe-240 dataset, and put it in the folder "datasets"
 * Then run the training code:
 
